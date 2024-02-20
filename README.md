@@ -9,6 +9,7 @@ To restart the program, press the RETURN-KEY
 To remove the last recognized keyword from the recognized keywords list, press X-KEY
 
 ### see also the attatched tutorial video
+[Video Demo](https://youtu.be/sdhfnOQNmKw)
 
 ## prepare the program
 the commands array in main.py has to hold the keywords in exactly the same order as they are printed in the [colab-repository](https://colab.research.google.com/drive/17YWAlm38g1Nx-prpqqwo4MSdd9fVdDI9?usp=sharing), because after importing, augmenting and shuffeling the keywords, the order of the labels can change
